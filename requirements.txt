@@ -1,0 +1,3 @@
+# requirements.txt
+strands-agents[bidi-all,bidi-pyaudio]
+boto3
